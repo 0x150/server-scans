@@ -1,0 +1,915 @@
+# Nmap 7.70 scan initiated Sun Mar 14 23:53:19 2021 as: nmap -p25565 -v --open -oN serverIPs.txt 82.*.*.*
+Nmap scan report for cpc106831-live29-2-0-cust590.17-2.cable.virginm.net (82.0.110.79)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc144226-nfds18-2-0-cust236.8-2.cable.virginm.net (82.1.24.237)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc152493-ipsw5-2-0-cust136.7-4.cable.virginm.net (82.1.34.137)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc72415-sotn15-2-0-cust88.15-1.cable.virginm.net (82.1.136.89)
+Host is up (0.083s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc81742-swin18-2-0-cust303.3-1.cable.virginm.net (82.1.167.48)
+Host is up (0.068s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc92302-cmbg19-2-0-cust333.5-4.cable.virginm.net (82.1.209.78)
+Host is up (0.096s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 81-53-3-82.static.virginm.net (82.3.53.81)
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82-53-3-82.static.virginm.net (82.3.53.82)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 83-53-3-82.static.virginm.net (82.3.53.83)
+Host is up (0.085s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 84-53-3-82.static.virginm.net (82.3.53.84)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 85-53-3-82.static.virginm.net (82.3.53.85)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 86-53-3-82.static.virginm.net (82.3.53.86)
+Host is up (0.086s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 88-53-3-82.static.virginm.net (82.3.53.88)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 89-53-3-82.static.virginm.net (82.3.53.89)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 90-53-3-82.static.virginm.net (82.3.53.90)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 91-53-3-82.static.virginm.net (82.3.53.91)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 96-53-3-82.static.virginm.net (82.3.53.96)
+Host is up (0.085s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 97-53-3-82.static.virginm.net (82.3.53.97)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 98-53-3-82.static.virginm.net (82.3.53.98)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 99-53-3-82.static.virginm.net (82.3.53.99)
+Host is up (0.086s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 100-53-3-82.static.virginm.net (82.3.53.100)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 101-53-3-82.static.virginm.net (82.3.53.101)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 102-53-3-82.static.virginm.net (82.3.53.102)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 103-53-3-82.static.virginm.net (82.3.53.103)
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 104-53-3-82.static.virginm.net (82.3.53.104)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 105-53-3-82.static.virginm.net (82.3.53.105)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 106-53-3-82.static.virginm.net (82.3.53.106)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 107-53-3-82.static.virginm.net (82.3.53.107)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 108-53-3-82.static.virginm.net (82.3.53.108)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 109-53-3-82.static.virginm.net (82.3.53.109)
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 110-53-3-82.static.virginm.net (82.3.53.110)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 111-53-3-82.static.virginm.net (82.3.53.111)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc134396-seve27-2-0-cust52.know.cable.virginm.net (82.3.59.53)
+Host is up (0.10s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc96872-rdng28-2-0-cust239.15-3.cable.virginm.net (82.3.84.240)
+Host is up (0.070s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc150865-colc9-2-0-cust67.7-4.cable.virginm.net (82.3.96.68)
+Host is up (0.068s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc73840-dals21-2-0-cust5.20-2.cable.virginm.net (82.3.216.6)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc111979-ware7-2-0-cust71.9-1.cable.virginm.net (82.3.236.72)
+Host is up (0.067s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc115020-bour7-2-0-cust1052.15-1.cable.virginm.net (82.3.252.29)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc123668-leic20-2-0-cust948.8-1.cable.virginm.net (82.5.91.181)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc77565-cwma10-2-0-cust214.7-3.cable.virginm.net (82.6.23.215)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc88427-bexl10-2-0-cust998.2-3.cable.virginm.net (82.6.27.231)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc96876-rdng28-2-0-cust72.15-3.cable.virginm.net (82.6.32.73)
+Host is up (0.084s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc81195-farn9-2-0-cust1010.6-2.cable.virginm.net (82.6.59.243)
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc69062-oxfd26-2-0-cust460.4-3.cable.virginm.net (82.6.141.205)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc146242-lisb4-2-0-cust500.2-1.cable.virginm.net (82.7.17.245)
+Host is up (0.083s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc146242-lisb4-2-0-cust603.2-1.cable.virginm.net (82.7.18.92)
+Host is up (0.089s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for seve-29-b2-v4wan-161021-cust484.vm13.cable.virginm.net (82.7.57.229)
+Host is up (0.081s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc1-neat5-2-0-cust101.know.cable.virginm.net (82.7.60.102)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc91620-hart11-2-0-cust107.11-3.cable.virginm.net (82.7.216.108)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc90570-wolv19-2-0-cust200.16-1.cable.virginm.net (82.8.0.201)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc143466-mfl23-2-0-cust248.13-1.cable.virginm.net (82.8.244.249)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc68285-cdif17-2-0-cust587.5-1.cable.virginm.net (82.9.90.76)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc68286-cdif17-2-0-cust69.5-1.cable.virginm.net (82.9.92.70)
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc92310-cmbg19-2-0-cust165.5-4.cable.virginm.net (82.9.224.166)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc160549-nrth6-2-0-cust5.8-4.cable.virginm.net (82.10.144.6)
+Host is up (0.12s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc76238-cosh15-2-0-cust252.6-1.cable.virginm.net (82.10.156.253)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc114914-swin18-2-0-cust252.3-1.cable.virginm.net (82.11.71.253)
+Host is up (0.070s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc1-cast9-2-0-cust1422.20-3.cable.virginm.net (82.11.85.143)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc82625-woki8-2-0-cust966.6-2.cable.virginm.net (82.11.171.199)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc138134-hatf10-2-0-cust78.9-3.cable.virginm.net (82.11.216.79)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc155939-brmb14-2-0-cust61.1-3.cable.virginm.net (82.12.220.62)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc122362-bmly11-2-0-cust50.2-3.cable.virginm.net (82.13.34.51)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc122362-bmly11-2-0-cust80.2-3.cable.virginm.net (82.13.34.81)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc92320-cmbg19-2-0-cust3656.5-4.cable.virginm.net (82.13.78.73)
+Host is up (0.070s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc151909-cove17-2-0-cust127.3-1.cable.virginm.net (82.13.173.128)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc88878-leic19-2-0-cust130.8-1.cable.virginm.net (82.14.28.131)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc127008-macc4-2-0-cust90.1-3.cable.virginm.net (82.14.36.91)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc153107-harg6-2-0-cust20.7-1.cable.virginm.net (82.14.85.21)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc159527-nrth2-2-0-cust234.8-4.cable.virginm.net (82.15.14.235)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc134062-cosh16-2-0-cust683.know.cable.virginm.net (82.15.86.172)
+Host is up (0.072s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc1-whit5-2-0-cust812.know.cable.virginm.net (82.15.131.45)
+Host is up (0.084s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc134630-bedf4-2-0-cust277.know.cable.virginm.net (82.15.133.22)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc76264-cosh15-2-0-cust455.6-1.cable.virginm.net (82.16.85.200)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc122384-bmly11-2-0-cust84.2-3.cable.virginm.net (82.16.94.85)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc110787-lewi20-2-0-cust1010.2-4.cable.virginm.net (82.16.147.243)
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc134258-whit5-2-0-cust641.know.cable.virginm.net (82.16.174.130)
+Host is up (0.087s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc92710-cmbg20-2-0-cust99.5-4.cable.virginm.net (82.17.134.100)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc144550-stap14-2-0-cust229.12-2.cable.virginm.net (82.18.32.230)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc135238-ersk4-2-0-cust15.know.cable.virginm.net (82.18.40.16)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc136892-bsfd10-2-0-cust881.5-3.cable.virginm.net (82.18.95.114)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc115940-epso6-2-0-cust277.6-3.cable.virginm.net (82.18.129.22)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc122100-bmly10-2-0-cust656.2-3.cable.virginm.net (82.19.14.145)
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc160897-lutn15-2-0-cust244.9-3.cable.virginm.net (82.19.57.245)
+Host is up (0.067s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc81674-swin18-2-0-cust174.3-1.cable.virginm.net (82.19.146.175)
+Host is up (0.084s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc72337-sotn15-2-0-cust652.15-1.cable.virginm.net (82.19.154.141)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc119556-heme14-2-0-cust76.9-1.cable.virginm.net (82.19.241.77)
+Host is up (0.076s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc1-york7-2-0-cust209.know.cable.virginm.net (82.20.228.210)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc159003-shef19-2-0-cust30.17-1.cable.virginm.net (82.21.188.31)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc122704-nrwh13-2-0-cust468.4-4.cable.virginm.net (82.22.87.213)
+Host is up (0.067s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc119926-nrwh13-2-0-cust160.4-4.cable.virginm.net (82.22.95.161)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc81205-farn9-2-0-cust511.6-2.cable.virginm.net (82.22.138.0)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc1-wilm3-2-0-cust132.1-4.cable.virginm.net (82.22.156.133)
+Host is up (0.080s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc138168-asht8-2-0-cust848.10-1.cable.virginm.net (82.23.75.81)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc107729-asfd5-2-0-cust914.1-2.cable.virginm.net (82.24.35.147)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc75388-sotn16-2-0-cust401.15-1.cable.virginm.net (82.24.85.146)
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc96768-rdng27-2-0-cust448.15-3.cable.virginm.net (82.24.93.193)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc155477-sgyl44-2-0-cust1006.18-2.cable.virginm.net (82.24.103.239)
+Host is up (0.088s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc149998-brnt4-2-0-cust239.4-2.cable.virginm.net (82.24.104.240)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc89528-gill19-2-0-cust517.20-1.cable.virginm.net (82.24.114.6)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc137430-wilm3-2-0-cust103.1-4.cable.virginm.net (82.24.188.104)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc77309-basf12-2-0-cust222.12-3.cable.virginm.net (82.25.8.223)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc116226-linc14-2-0-cust86.12-1.cable.virginm.net (82.25.72.87)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc105980-hudd12-2-0-cust185.4-1.cable.virginm.net (82.26.20.186)
+Host is up (0.081s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc135856-swin20-2-0-cust181.know.cable.virginm.net (82.26.22.182)
+Host is up (0.084s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc123986-duns8-2-0-cust49.9-3.cable.virginm.net (82.26.35.50)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc152641-stkp13-2-0-cust46.10-2.cable.virginm.net (82.26.54.47)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc81692-swin18-2-0-cust83.3-1.cable.virginm.net (82.26.110.84)
+Host is up (0.067s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc86267-nfds17-2-0-cust77.8-2.cable.virginm.net (82.26.237.78)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc119848-nrwh12-2-0-cust11.4-4.cable.virginm.net (82.27.42.12)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc155941-brmb14-2-0-cust441.1-3.cable.virginm.net (82.27.101.186)
+Host is up (0.085s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc86269-nfds17-2-0-cust63.8-2.cable.virginm.net (82.27.168.64)
+Host is up (0.076s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc136238-broo9-2-0-cust222.know.cable.virginm.net (82.28.8.223)
+Host is up (0.083s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc88598-newt36-2-0-cust376.19-3.cable.virginm.net (82.28.119.121)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc80205-blbn11-2-0-cust78.10-1.cable.virginm.net (82.28.148.79)
+Host is up (0.068s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc108441-cowc8-2-0-cust213.14-2.cable.virginm.net (82.28.204.214)
+Host is up (0.091s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc76512-clyd5-2-0-cust284.14-1.cable.virginm.net (82.29.45.29)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc156157-bagu19-2-0-cust933.1-3.cable.virginm.net (82.30.35.166)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc97740-bolt17-2-0-cust191.10-3.cable.virginm.net (82.30.156.192)
+Host is up (0.089s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc75560-harg6-2-0-cust319.7-1.cable.virginm.net (82.30.201.64)
+Host is up (0.074s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc103062-sgyl39-2-0-cust127.18-2.cable.virginm.net (82.33.50.128)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc85670-dund15-2-0-cust46.16-4.cable.virginm.net (82.33.154.47)
+Host is up (0.082s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc84359-newc18-2-0-cust1.16-2.cable.virginm.net (82.33.179.2)
+Host is up (0.081s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.162
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.163
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.164
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.165
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.170
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.186
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.216.187
+Host is up (0.067s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.227.115
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.227.116
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.33.227.119
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc110315-king12-2-0-cust292.19-1.cable.virginm.net (82.34.5.37)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc114424-sout9-2-0-cust217.20-1.cable.virginm.net (82.34.32.218)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc100570-uddi29-2-0-cust7.20-3.cable.virginm.net (82.34.95.8)
+Host is up (0.072s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for maid-09-b2-v4wan-162489-cust114.vm41.cable.virginm.net (82.34.194.115)
+Host is up (0.068s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc84367-newc18-2-0-cust17.16-2.cable.virginm.net (82.34.246.18)
+Host is up (0.080s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc87721-bexl9-2-0-cust4.2-3.cable.virginm.net (82.34.250.5)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc114430-sout9-2-0-cust907.20-1.cable.virginm.net (82.35.67.140)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc96592-uddi27-2-0-cust958.20-3.cable.virginm.net (82.35.155.191)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc84375-newc18-2-0-cust84.16-2.cable.virginm.net (82.35.171.85)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc77379-stav19-2-0-cust176.17-3.cable.virginm.net (82.35.200.177)
+Host is up (0.078s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc77379-stav19-2-0-cust930.17-3.cable.virginm.net (82.35.203.163)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc84391-newc18-2-0-cust83.16-2.cable.virginm.net (82.35.210.84)
+Host is up (0.076s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.36.5.10
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc107897-blac9-2-0-cust176.18-3.cable.virginm.net (82.36.48.177)
+Host is up (0.075s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc93786-hari17-2-0-cust1339.20-2.cable.virginm.net (82.36.101.60)
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc93820-hari18-2-0-cust173.20-2.cable.virginm.net (82.36.112.174)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Increasing send delay for 82.36.226.113 from 0 to 5 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 82.36.226.113 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Nmap scan report for cpc109677-know17-2-0-cust139.17-2.cable.virginm.net (82.36.158.140)
+Host is up (0.084s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc129124-aztw32-2-0-cust205.know.cable.virginm.net (82.36.247.206)
+Host is up (0.083s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc84749-aztw28-2-0-cust34.18-1.cable.virginm.net (82.37.84.35)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc84751-aztw28-2-0-cust39.18-1.cable.virginm.net (82.37.86.40)
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
