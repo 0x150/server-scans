@@ -1,0 +1,15 @@
+# Nmap 7.70 scan initiated Mon Mar 15 05:32:20 2021 as: nmap -p25565 -v --open -oN 82.47.*.*.txt 82.47.*.*
+Nmap scan report for cpc109445-brom12-2-0-cust40.16-1.cable.virginm.net (82.47.140.41)
+Host is up (0.069s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc80857-perr16-2-0-cust371.19-1.cable.virginm.net (82.47.213.116)
+Host is up (0.066s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Mon Mar 15 05:40:53 2021 -- 65536 IP addresses (3082 hosts up) scanned in 512.72 seconds
