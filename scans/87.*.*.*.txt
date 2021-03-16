@@ -1,0 +1,173 @@
+# Nmap 7.70 scan initiated Tue Mar 16 00:31:58 2021 as: nmap -p25565 -v -oN 87.*.*.* --open 87.*.*.*
+Nmap scan report for host-87-0-77-160.retail.telecomitalia.it (87.0.77.160)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-1-20-51.retail.telecomitalia.it (87.1.20.51)
+Host is up (0.058s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-1-129-131.retail.telecomitalia.it (87.1.129.131)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-4-59-98.retail.telecomitalia.it (87.4.59.98)
+Host is up (0.046s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-5-44-150.retail.telecomitalia.it (87.5.44.150)
+Host is up (0.053s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-6-4-219.retail.telecomitalia.it (87.6.4.219)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-11-222-120.retail.telecomitalia.it (87.11.222.120)
+Host is up (0.073s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 87.13.235.183
+Host is up (0.076s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-14-86-63.retail.telecomitalia.it (87.14.86.63)
+Host is up (0.081s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-17-255-116.retail.telecomitalia.it (87.17.255.116)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-20-118-221.retail.telecomitalia.it (87.20.118.221)
+Host is up (0.070s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-20-122-10.retail.telecomitalia.it (87.20.122.10)
+Host is up (0.081s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-20-147-174.retail.telecomitalia.it (87.20.147.174)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-21-58-64.retail.telecomitalia.it (87.21.58.64)
+Host is up (0.080s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-26-105-23.business.telecomitalia.it (87.26.105.23)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-87-27-203-148.business.telecomitalia.it (87.27.203.148)
+Host is up (0.057s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Increasing send delay for 87.32.15.56 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.15.56 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.32.153.135 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.33.142.129 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.34.45.1 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.28.97 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.171.65 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.35.239.1 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 20 to 40 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 40 to 80 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 80 to 160 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 160 to 320 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 320 to 640 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.36.225.65 from 640 to 1000 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.37.37.1 from 0 to 5 due to 11 out of 12 dropped probes since last increase.
+Increasing send delay for 87.37.37.1 from 5 to 10 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 87.37.37.1 from 10 to 20 due to 11 out of 11 dropped probes since last increase.
+Increasing se
