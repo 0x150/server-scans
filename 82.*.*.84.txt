@@ -1,0 +1,135 @@
+# Nmap 7.70 scan initiated Mon Mar 15 10:06:04 2021 as: nmap -p25565 -v --open -oN 82.*.*.84.txt 82.*.*.84
+Nmap scan report for 84-53-3-82.static.virginm.net (82.3.53.84)
+Host is up (0.057s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cpc81692-swin18-2-0-cust83.3-1.cable.virginm.net (82.26.110.84)
+Host is up (0.072s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.35.210.84
+Host is up (0.12s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.39.166.84
+Host is up (0.065s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82-65-170-84.subs.proxad.net (82.65.170.84)
+Host is up (0.040s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82-75-179-84.cable.dynamic.v4.ziggo.nl (82.75.179.84)
+Host is up (0.055s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for kfock.dk (82.103.128.84)
+Host is up (0.031s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.118.237.84
+Host is up (0.045s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for webpres-fe2-vip.london.02.net (82.132.141.84)
+Host is up (0.079s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.176.84
+Host is up (0.039s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.195.84
+Host is up (0.049s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.196.84
+Host is up (0.042s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.197.84
+Host is up (0.043s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.201.84
+Host is up (0.037s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.203.84
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.132.209.84
+Host is up (0.034s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.144.55.84
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82.165.116.84
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 82-183-27-84.customers.ownit.se (82.183.27.84)
+Host is up (0.042s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for host-82-194-180-84.hosts.vtc.ru (82.194.180.84)
+Host is up (0.19s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for dbmine.ru (82.202.162.84)
+Host is up (0.056s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for fh24-84.cybersales.cz (82.208.17.84)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Mon Mar 15 10:24:44 2021 -- 65536 IP addresses (3224 hosts up) scanned in 1121.18 seconds

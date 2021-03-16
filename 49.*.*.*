@@ -1,0 +1,791 @@
+# Nmap 7.70 scan initiated Mon Mar 15 10:24:45 2021 as: nmap -p25565 -v --open -oN 49.*.*.* 49.*.*.*
+Increasing send delay for 49.4.159.180 from 0 to 5 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 49.4.160.222 from 0 to 5 due to 11 out of 23 dropped probes since last increase.
+Increasing send delay for 49.4.160.222 from 5 to 10 due to 11 out of 28 dropped probes since last increase.
+Increasing send delay for 49.4.181.198 from 0 to 5 due to 11 out of 27 dropped probes since last increase.
+Nmap scan report for static.6.0.12.49.clients.your-server.de (49.12.0.6)
+Host is up (0.041s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.167.0.12.49.clients.your-server.de (49.12.0.167)
+Host is up (0.038s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.174.0.12.49.clients.your-server.de (49.12.0.174)
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.226.1.12.49.clients.your-server.de (49.12.1.226)
+Host is up (0.029s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.194.2.12.49.clients.your-server.de (49.12.2.194)
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.51.3.12.49.clients.your-server.de (49.12.3.51)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.15.7.12.49.clients.your-server.de (49.12.7.15)
+Host is up (0.041s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.108.13.12.49.clients.your-server.de (49.12.13.108)
+Host is up (0.035s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for cirk2.de (49.12.13.149)
+Host is up (0.029s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.253.13.12.49.clients.your-server.de (49.12.13.253)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.25.15.12.49.clients.your-server.de (49.12.15.25)
+Host is up (0.089s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.63.15.12.49.clients.your-server.de (49.12.15.63)
+Host is up (0.075s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for minecraft.tarent.de (49.12.15.84)
+Host is up (0.025s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.101.19.12.49.clients.your-server.de (49.12.19.101)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.46.23.12.49.clients.your-server.de (49.12.23.46)
+Host is up (0.037s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for turn.kampanile.de (49.12.34.52)
+Host is up (0.091s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.156.34.12.49.clients.your-server.de (49.12.34.156)
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.91.36.12.49.clients.your-server.de (49.12.36.91)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.151.36.12.49.clients.your-server.de (49.12.36.151)
+Host is up (0.031s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.49.37.12.49.clients.your-server.de (49.12.37.49)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.147.37.12.49.clients.your-server.de (49.12.37.147)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for minecraft.ralin.org (49.12.37.157)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.187.37.12.49.clients.your-server.de (49.12.37.187)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.224.39.12.49.clients.your-server.de (49.12.39.224)
+Host is up (0.031s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for mail.cheusser.de (49.12.41.69)
+Host is up (0.10s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.29.42.12.49.clients.your-server.de (49.12.42.29)
+Host is up (0.051s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for medplex.wtf (49.12.43.135)
+Host is up (0.046s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.217.43.12.49.clients.your-server.de (49.12.43.217)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.88.46.12.49.clients.your-server.de (49.12.46.88)
+Host is up (0.059s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.239.47.12.49.clients.your-server.de (49.12.47.239)
+Host is up (0.040s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 49.12.48.153
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 49.12.48.158
+Host is up (0.034s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.251.64.12.49.clients.your-server.de (49.12.64.251)
+Host is up (0.044s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.8.65.12.49.clients.your-server.de (49.12.65.8)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.105.67.12.49.clients.your-server.de (49.12.67.105)
+Host is up (0.036s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.241.67.12.49.clients.your-server.de (49.12.67.241)
+Host is up (0.067s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.54.68.12.49.clients.your-server.de (49.12.68.54)
+Host is up (0.12s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.176.71.12.49.clients.your-server.de (49.12.71.176)
+Host is up (0.071s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.90.74.12.49.clients.your-server.de (49.12.74.90)
+Host is up (0.026s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.136.74.12.49.clients.your-server.de (49.12.74.136)
+Host is up (0.037s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.35.75.12.49.clients.your-server.de (49.12.75.35)
+Host is up (0.058s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.61.75.12.49.clients.your-server.de (49.12.75.61)
+Host is up (0.040s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.157.75.12.49.clients.your-server.de (49.12.75.157)
+Host is up (0.051s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.170.75.12.49.clients.your-server.de (49.12.75.170)
+Host is up (0.021s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.50.78.12.49.clients.your-server.de (49.12.78.50)
+Host is up (0.10s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for atrias.net (49.12.78.183)
+Host is up (0.068s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.97.79.12.49.clients.your-server.de (49.12.79.97)
+Host is up (0.051s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.89.80.12.49.clients.your-server.de (49.12.80.89)
+Host is up (0.029s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.92.80.12.49.clients.your-server.de (49.12.80.92)
+Host is up (0.028s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for f61.craftserve.pl (49.12.80.99)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.172.81.12.49.clients.your-server.de (49.12.81.172)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for nep-nep.xyz (49.12.82.85)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.136.82.12.49.clients.your-server.de (49.12.82.136)
+Host is up (0.034s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.137.82.12.49.clients.your-server.de (49.12.82.137)
+Host is up (0.026s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.140.82.12.49.clients.your-server.de (49.12.82.140)
+Host is up (0.029s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.180.83.12.49.clients.your-server.de (49.12.83.180)
+Host is up (0.049s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for q-zero.de (49.12.83.234)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.177.85.12.49.clients.your-server.de (49.12.85.177)
+Host is up (0.084s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for fsn1-8gaming.net (49.12.86.120)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.27.87.12.49.clients.your-server.de (49.12.87.27)
+Host is up (0.026s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.153.87.12.49.clients.your-server.de (49.12.87.153)
+Host is up (0.036s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for bbb.avm-konferenz.de (49.12.89.14)
+Host is up (0.036s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for hopfenspace.org (49.12.90.190)
+Host is up (0.054s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.16.91.12.49.clients.your-server.de (49.12.91.16)
+Host is up (0.050s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for bjt-media.de (49.12.91.17)
+Host is up (0.039s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.255.96.12.49.clients.your-server.de (49.12.96.255)
+Host is up (0.054s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.56.97.12.49.clients.your-server.de (49.12.97.56)
+Host is up (0.096s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.99.98.12.49.clients.your-server.de (49.12.98.99)
+Host is up (0.024s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.120.98.12.49.clients.your-server.de (49.12.98.120)
+Host is up (0.040s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for maelstrom.0x4c53.net (49.12.100.45)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.225.100.12.49.clients.your-server.de (49.12.100.225)
+Host is up (0.037s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.30.101.12.49.clients.your-server.de (49.12.101.30)
+Host is up (0.12s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.150.101.12.49.clients.your-server.de (49.12.101.150)
+Host is up (0.029s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.68.102.12.49.clients.your-server.de (49.12.102.68)
+Host is up (0.028s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.3.103.12.49.clients.your-server.de (49.12.103.3)
+Host is up (0.050s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.149.105.12.49.clients.your-server.de (49.12.105.149)
+Host is up (0.062s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.237.107.12.49.clients.your-server.de (49.12.107.237)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.253.107.12.49.clients.your-server.de (49.12.107.253)
+Host is up (0.043s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.250.108.12.49.clients.your-server.de (49.12.108.250)
+Host is up (0.022s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for mc.siegertyp.at (49.12.110.17)
+Host is up (0.097s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.44.110.12.49.clients.your-server.de (49.12.110.44)
+Host is up (0.32s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.118.110.12.49.clients.your-server.de (49.12.110.118)
+Host is up (0.028s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.250.110.12.49.clients.your-server.de (49.12.110.250)
+Host is up (0.060s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.54.111.12.49.clients.your-server.de (49.12.111.54)
+Host is up (0.022s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.45.112.12.49.clients.your-server.de (49.12.112.45)
+Host is up (0.097s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for lastverteiler.wertarbyte.com (49.12.112.156)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.21.114.12.49.clients.your-server.de (49.12.114.21)
+Host is up (0.088s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.116.115.12.49.clients.your-server.de (49.12.115.116)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.47.116.12.49.clients.your-server.de (49.12.116.47)
+Host is up (0.11s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.48.118.12.49.clients.your-server.de (49.12.118.48)
+Host is up (0.083s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.206.118.12.49.clients.your-server.de (49.12.118.206)
+Host is up (0.021s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.95.120.12.49.clients.your-server.de (49.12.120.95)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for spawnhost.de (49.12.120.228)
+Host is up (0.055s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for 49.12.120.243
+Host is up (0.025s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.55.121.12.49.clients.your-server.de (49.12.121.55)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.56.121.12.49.clients.your-server.de (49.12.121.56)
+Host is up (0.077s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for mc.editzp.com (49.12.121.111)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for one.magen2.co.uk (49.12.121.183)
+Host is up (0.046s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.232.121.12.49.clients.your-server.de (49.12.121.232)
+Host is up (0.042s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for mail.deep-space-range.de (49.12.124.111)
+Host is up (0.031s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.160.124.12.49.clients.your-server.de (49.12.124.160)
+Host is up (0.031s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.252.124.12.49.clients.your-server.de (49.12.124.252)
+Host is up (0.064s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.182.127.12.49.clients.your-server.de (49.12.127.182)
+Host is up (0.031s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.60.128.12.49.clients.your-server.de (49.12.128.60)
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.184.128.12.49.clients.your-server.de (49.12.128.184)
+Host is up (0.046s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.185.128.12.49.clients.your-server.de (49.12.128.185)
+Host is up (0.049s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.151.129.12.49.clients.your-server.de (49.12.129.151)
+Host is up (0.044s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.153.129.12.49.clients.your-server.de (49.12.129.153)
+Host is up (0.042s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.154.129.12.49.clients.your-server.de (49.12.129.154)
+Host is up (0.030s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.155.129.12.49.clients.your-server.de (49.12.129.155)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.158.129.12.49.clients.your-server.de (49.12.129.158)
+Host is up (0.036s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.159.129.12.49.clients.your-server.de (49.12.129.159)
+Host is up (0.037s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.160.129.12.49.clients.your-server.de (49.12.129.160)
+Host is up (0.035s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.177.129.12.49.clients.your-server.de (49.12.129.177)
+Host is up (0.029s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.183.129.12.49.clients.your-server.de (49.12.129.183)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.185.129.12.49.clients.your-server.de (49.12.129.185)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for mail.chaosolymp.de (49.12.129.237)
+Host is up (0.061s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for stacket.net (49.12.131.131)
+Host is up (0.033s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for slimymc.syntex.xyz (49.12.132.11)
+Host is up (0.021s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.17.132.12.49.clients.your-server.de (49.12.132.17)
+Host is up (0.036s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.41.132.12.49.clients.your-server.de (49.12.132.41)
+Host is up (0.027s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for b-fde-15.sparkedhost.us (49.12.133.25)
+Host is up (0.035s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.11.134.12.49.clients.your-server.de (49.12.134.11)
+Host is up (0.023s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.12.134.12.49.clients.your-server.de (49.12.134.12)
+Host is up (0.039s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.13.134.12.49.clients.your-server.de (49.12.134.13)
+Host is up (0.039s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.17.134.12.49.clients.your-server.de (49.12.134.17)
+Host is up (0.035s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.89.134.12.49.clients.your-server.de (49.12.134.89)
+Host is up (0.026s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.90.134.12.49.clients.your-server.de (49.12.134.90)
+Host is up (0.032s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.97.134.12.49.clients.your-server.de (49.12.134.97)
+Host is up (0.036s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.100.155.12.49.clients.your-server.de (49.12.155.100)
+Host is up (0.034s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
+Nmap scan report for static.143.156.12.49.clients.your-server.de (49.12.156.143)
+Host is up (0.063s latency).
+
+PORT      STATE SERVICE
+25565/tcp open  minecraft
+
